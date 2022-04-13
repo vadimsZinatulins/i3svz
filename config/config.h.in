@@ -1,0 +1,5 @@
+#pragma once
+
+#define MAJOR_VERSION @i3svz_VERSION_MAJOR@
+#define MINOR_VERSION @i3svz_VERSION_MINOR@
+#define PACTH_VERSION @i3svz_VERSION_PATCH@
