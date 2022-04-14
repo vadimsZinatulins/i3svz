@@ -2,3 +2,7 @@
 bin/
 build/
 .vscode/
+.cache/
+
+# File used by vim ycm
+compile_commands.json
